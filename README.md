@@ -14,7 +14,7 @@ Language used: Python
 Library used: Pillow
 
 
-Set Up:
+**Set Up:**
 $ pip3 install -r requirements.txt
 $ python3 image-edit.py
 
