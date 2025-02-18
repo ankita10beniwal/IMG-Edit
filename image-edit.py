@@ -1,7 +1,6 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 
-#coded by 0xp0is0n -_- XD
 
 from PIL import Image
 from PIL import ImageFilter
